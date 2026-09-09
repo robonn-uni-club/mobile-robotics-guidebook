@@ -15,7 +15,7 @@ Maintained by [Robonn](https://robonn.de), the Robotics Club at Universität Bon
 
     Probability, Gaussians, Bayes' theorem, linear algebra, coordinate transforms.
 
-    [Open](courses/1_math_and_probability/)
+    [Open](courses/1_math_and_probability/README.md)
 
 -   **Coding**
 
@@ -23,7 +23,7 @@ Maintained by [Robonn](https://robonn.de), the Robotics Club at Universität Bon
 
     Python and C++ for robotics — NumPy, Eigen, ROS2, and the core development toolchain.
 
-    [Open](courses/2_coding/)
+    [Python](courses/2_python/README.md) · [C++](courses/13_cpp/README.md)
 
 </div>
 
@@ -37,7 +37,7 @@ Maintained by [Robonn](https://robonn.de), the Robotics Club at Universität Bon
 
     Motion models, beam model, likelihood field, and inverse sensor model.
 
-    [Open](courses/3_sensor_motion_models/)
+    [Open](courses/3_sensor_motion_models/README.md)
 
 -   **State Estimation**
 
@@ -45,7 +45,7 @@ Maintained by [Robonn](https://robonn.de), the Robotics Club at Universität Bon
 
     Bayes filter, Kalman filter, EKF, UKF, and particle filter — the complete filter progression.
 
-    [Open](courses/4_state_estimation/)
+    [Open](courses/4_state_estimation/README.md)
 
 -   **Localization**
 
@@ -53,7 +53,7 @@ Maintained by [Robonn](https://robonn.de), the Robotics Club at Universität Bon
 
     Markov localization, EKF localization, and Monte Carlo localization on a known map.
 
-    [Open](courses/5_localization/)
+    [Open](courses/5_localization/README.md)
 
 -   **Mapping**
 
@@ -61,7 +61,7 @@ Maintained by [Robonn](https://robonn.de), the Robotics Club at Universität Bon
 
     Occupancy grids, log-odds representation, OctoMap, and 3D map representations.
 
-    [Open](courses/6_mapping/)
+    [Open](courses/6_mapping/README.md)
 
 -   **Control & Planning**
 
@@ -69,7 +69,7 @@ Maintained by [Robonn](https://robonn.de), the Robotics Club at Universität Bon
 
     Robot kinematics, potential fields, A\*, RRT, and path following controllers.
 
-    [Open](courses/11_control_and_planning/)
+    [Open](courses/11_control_and_planning/README.md)
 
 -   **Computer Vision**
 
@@ -77,7 +77,7 @@ Maintained by [Robonn](https://robonn.de), the Robotics Club at Universität Bon
 
     Camera models, feature detection, epipolar geometry, deep learning, and temporal tracking.
 
-    [Open](courses/8_computer_vision/)
+    [Open](courses/8_computer_vision/README.md)
 
 -   **Inertial Navigation**
 
@@ -85,7 +85,7 @@ Maintained by [Robonn](https://robonn.de), the Robotics Club at Universität Bon
 
     Strapdown INS mechanization, IMU error modeling, coordinate frames, and INS/GNSS fusion.
 
-    [Open](courses/9_inertial_navigation/)
+    [Open](courses/9_inertial_navigation/README.md)
 
 -   **Global Navigation Satellite Systems**
 
@@ -93,7 +93,7 @@ Maintained by [Robonn](https://robonn.de), the Robotics Club at Universität Bon
 
     GNSS signals, error sources, RTK, double differencing, and LAMBDA ambiguity resolution.
 
-    [Open](courses/10_global_navigation/)
+    [Open](courses/10_global_navigation/README.md)
 
 </div>
 
@@ -107,7 +107,7 @@ Maintained by [Robonn](https://robonn.de), the Robotics Club at Universität Bon
 
     EKF-SLAM, FastSLAM, graph-based SLAM, loop closure, and modern systems.
 
-    [Open](courses/7_slam/)
+    [Open](courses/7_slam/README.md)
 
 -   **Machine Learning**
 
@@ -115,7 +115,7 @@ Maintained by [Robonn](https://robonn.de), the Robotics Club at Universität Bon
 
     Gaussian processes, deep learning for perception, uncertainty estimation, and RL.
 
-    [Open](courses/12_machine_learning/)
+    [Open](courses/12_machine_learning/README.md)
 
 </div>
 
